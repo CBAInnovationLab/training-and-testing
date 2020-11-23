@@ -1,4 +1,2 @@
-#Test heading
-##Is this how you format
-
-**This is bold, hopefully**
+# Scratchpad
+## This is the place to experiment with GitHub and Markdown
